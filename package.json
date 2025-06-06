@@ -1,0 +1,23 @@
+{
+  "name": "qa-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress complementary practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lale11Ortiz/QA-Cypress-Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lale11Ortiz/QA-Cypress-Tests/issues"
+  },
+  "homepage": "https://github.com/Lale11Ortiz/QA-Cypress-Tests#readme",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}

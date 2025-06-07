@@ -36,24 +36,18 @@ Este proyecto contiene prácticas complementarias de automatización E2E con Cyp
 QA-Cypress-Tests/
 
 - cypress/
-
     - e2e/
-
         - login_test.cy.js ✅
-
         - ecommerce_cart.cy.js ✅
-
         - mock_api_ui.cy.js ✅
 
 - archive/ 🗃️ Carpeta con archivos no utilizados o reemplazados
-
     - cypress_example.cy.js
-
     - e2e/ (duplicado innecesario)
-
     - downloads/ (carpeta vacía)
 
-- README.md
+- README.md       (ESP)
+- README_En.md    (ENG)
 
 - package.json
 
